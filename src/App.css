@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+
+}
+.nav{
+    background-color: rgb(50, 91, 77);
+    margin-bottom: -10px;
+}
